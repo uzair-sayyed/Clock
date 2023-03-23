@@ -97,3 +97,13 @@ body{
       padding: 20px;
     }
   }
+  @media(min-width:200px) and (max-width:282px){
+    .container{
+      font-size: 8px;
+      padding: 12px;
+    }
+    .container .title{
+      font-size: 12px;
+      padding: 17px;
+    }
+  }
